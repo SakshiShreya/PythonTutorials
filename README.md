@@ -8,3 +8,7 @@ Do not rely completely till I complete it.
 1. Either clone the whole repository.
 
 2. OR Open the file that you want to save >> click on "Raw" button >> Press "[Ctrl] + S".
+
+**DO NOT SAVE THE FILE AS .TXT Change the** *Save as file* **Option to** *All files* before saving
+
+**The saved file should have extension .ipynb**
