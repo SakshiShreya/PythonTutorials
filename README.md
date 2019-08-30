@@ -12,3 +12,5 @@ Do not rely completely till I complete it.
 **DO NOT SAVE THE FILE AS .TXT Change the** *Save as file* **Option to** *All files* before saving
 
 **The saved file should have extension .ipynb**
+
+![](SaveOption.PNG)
